@@ -31,7 +31,4 @@ pipeline {
     }
 
   }
-  environment {
-    tt = 'yt'
-  }
 }
